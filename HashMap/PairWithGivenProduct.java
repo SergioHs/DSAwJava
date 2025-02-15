@@ -1,3 +1,5 @@
+package HashMap;
+
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
@@ -5,10 +7,10 @@ import java.util.Map;
 public class PairWithGivenProduct {
 
     /*
-    Par com produto dado
-    Enunciado: Dado um array e um número p, encontre dois números cujo produto seja igual a p.
-    Entrada: [10, 20, 9, 40], p = 400
-    Saída: (10, 40)
+    Pair with given product
+    Statement: Given an array and a number p, find two numbers whose product is equal to p.
+    Input: [10, 20, 9, 40], p = 400
+    Output: (10, 40)
     Complexity: Time O(n), Space O(n);
      */
 
