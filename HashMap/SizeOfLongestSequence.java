@@ -10,6 +10,7 @@ public class SizeOfLongestSequence {
         Statement: Given an unordered array, find the length of the longest sequence of consecutive numbers.
         Input: [100, 4, 200, 1, 3, 2]
         Output: 4 (sequence: [1, 2, 3, 4])
+        Complexity: Time O(n), Space O(n);
      */
 
     public static int SizeOfLongestSequenceFn(int[] array){
