@@ -28,6 +28,11 @@ Java 8+
 - [**TwoSum.java**](https://github.com/SergioHs/DSAwJava/blob/main/HashMap/TwoSum.java) - Finds two numbers whose sum is a target
 - [**WordFrequency.java**](https://github.com/SergioHs/DSAwJava/blob/main/HashMap/WordFrequency.java) - Counts the frequency of words
 
+
+  🔠 **LinkedList**
+- [**MergeTwoLists.java**](https://github.com/SergioHs/DSAwJava/blob/main/LinkedList/MergeTwoLists.java) - Merge Two Linked Lists
+
+
 🛠 **How to Use**  
 Clone the repository:
 
