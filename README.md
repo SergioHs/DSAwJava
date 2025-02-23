@@ -1,7 +1,3 @@
-Here’s the updated version with the correct repository links:
-
----
-
 # DSAwJava - Data Structures and Algorithms with Java
 
 📌 **Description**  
